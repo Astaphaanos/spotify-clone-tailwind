@@ -7,8 +7,8 @@ function App() {
 
   return (
       <div>
-        <SpotifyHome/>
         <SpotifyHeader/>
+        <SpotifyHome/>
       </div>
  
   )
