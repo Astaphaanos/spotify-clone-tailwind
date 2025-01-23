@@ -1,6 +1,7 @@
 import './index.css';
-import SpotifyHome from './components/SpotifyHome/SpotifyHome'
+import SpotifyAside from './components/SpotifyAside/SpotifyAside'
 import SpotifyHeader from './components/SpotifyHeader/SpotifyHeader';
+import SpotifyFooterPlayer from './components/SpotifyFooterPlayer/SpotifyFooterPlayer';
 
 function App() {
 
@@ -8,7 +9,8 @@ function App() {
   return (
       <div>
         <SpotifyHeader/>
-        <SpotifyHome/>
+        <SpotifyAside/>
+        <SpotifyFooterPlayer/>
       </div>
  
   )
