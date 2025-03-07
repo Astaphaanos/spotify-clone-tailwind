@@ -94,7 +94,7 @@ const SpotifyHome = () => {
         </div>
 
         {/*Grid das playlists */}
-        <div className="grid grid-cols-4 gap-4 pt-6 pl-4">
+        <div className="grid grid-cols-4 gap-4 pt-6 pl-4 cursor-pointer">
           <div className="flex items-center bg-[#2A2C30] rounded-md w-auto h-18">
               <img src="https://placehold.co/60x60" className="rounded-lg mr-4" />
             <div>
@@ -160,7 +160,7 @@ const SpotifyHome = () => {
           </div>
           
           {/*Cards das playlists */}
-          <div className=" grid grid-cols-6">
+          <div className=" grid grid-cols-6 cursor-pointer">
             <div className="w-48 pt-4">
               <img src="https://placehold.co/170x160" className="rounded-lg mr-4"/>
               <div className="text-zinc-400 text-sm w-40">

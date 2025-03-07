@@ -7,7 +7,7 @@ const SpotifyHomePage = () => {
             <div className="flex items-center justify-between">
                 {/*Musica */}
                 <div className="flex items-center p-6">
-                    <img src="https://placehold.co/60x60" className="rounded-lg mr-4"/>
+                    <img src="https://placehold.co/60x60" className="rounded-lg mr-4 cursor-pointer"/>
                     <div className="cursor-pointer">
                         <h4 className="text-sm font-bold hover:underline">Brinca Demais</h4>
                         <p className="text-xs text-zinc-400 font-semibold">
