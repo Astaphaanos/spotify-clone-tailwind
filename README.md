@@ -1,6 +1,6 @@
 # Clone de Spotify 🚀
 
-Um clone do Spotify desenvolvido com **Tailwind CSS** e **React** para praticar e aprimorar minhas habilidades em front-end.
+Um clone do Spotify desenvolvido com **Tailwind CSS** e **React** para praticar e aprimorar minhas habilidades em **Tailwind CSS**.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -11,6 +11,5 @@ Um clone do Spotify desenvolvido com **Tailwind CSS** e **React** para praticar 
 ## 📋 Funcionalidades
 
 - Interface fiel ao design do Spotify.
-- Layout responsivo para diferentes dispositivos.
 - Componentes reutilizáveis e bem estruturados.
 
